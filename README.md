@@ -1,6 +1,6 @@
 # Smart Traffic Management System
 
-A console based simulation written with princples of OOP in mind for a smart traffic management system designed for dynamic routing and prioritization of vehicles using Dijkstra’s algorithm. This program simulates a road network, accepts real-time vehicle input, and ensures that emergency vehicles are prioritized in the queue.
+A console based simulation written with princples of OOP for a smart traffic management system designed for dynamic routing and prioritization of vehicles using Dijkstra’s algorithm. This program simulates a road network, accepts real-time vehicle input, and ensures that emergency vehicles are prioritized in the queue.
 
 ## Project Structure
 
