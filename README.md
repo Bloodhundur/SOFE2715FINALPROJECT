@@ -44,7 +44,15 @@ Follow the prompts to:
    - Emergency vehicle is processed first  
    - Shortest paths are calculated and printed  
 
-## Example Output
+---
+
+![image](https://github.com/user-attachments/assets/62f53a3a-8e23-4ef3-9562-3684e27ebcab)
+
+![image](https://github.com/user-attachments/assets/80b8c05b-6d29-47aa-8a10-c930bbb10359)
+
+![image](https://github.com/user-attachments/assets/186e980e-2720-4764-b183-ed84a15ec0bc)
+
+![image](https://github.com/user-attachments/assets/0a38f94e-3348-4cec-a95e-4014fd55dfc1)
 
 ## Concepts Demonstrated
 
